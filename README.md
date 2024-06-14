@@ -2,16 +2,26 @@
 > 相关问题解决方案已上传到csdn上，见下连接：
 
 本项目主要探索如下flink主题内容
+
 一. flink概述：
+
 二. flink部署模式与集群搭建
+
 三. flink的编程模型、相关原理
+
 四. flink dataStream
+
 五. flink sql和table api的操作
+
 六. flink的状态管理
+
 七. flink监控与性能优化
+
 1. 如何监控指标，在不同的运行模式监控指标。
+2. 反压
 
 八. 其他经验
+
 1. 源码改造
 2. 排错经验
 3. 面试问答 ing
@@ -75,7 +85,7 @@ ing
 > 有状态计算的原理是什么
 > checkpoint和savepoint
 > 状态管理区
-> querable state
+> queryable state
 
 [【状态管理｜概述】Flink的状态管理：为什么需要state、怎么保存state、对于state过大怎么处理](https://blog.csdn.net/hiliang521/article/details/127314339)
 
